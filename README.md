@@ -8,6 +8,6 @@
 
 ### Expected Behaviors
 
-- Should return redirect to login
+- Should redirect to login
 - Should return test data
 - Should return hello world
